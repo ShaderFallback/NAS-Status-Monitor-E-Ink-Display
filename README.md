@@ -1,4 +1,4 @@
-# 📡 NAS 状态监控器 - 墨水屏版（开源）
+# 📡 NAS 状态监控器 - 墨水屏版
 
 ## ✨ 特性
 
@@ -46,7 +46,7 @@
 
 # 🌍 English Version
 
-# 📡 NAS Status Monitor - E-Ink Display Edition (Open Source)
+# 📡 NAS Status Monitor - E-Ink Display Edition
 
 ## ✨ Features
 
