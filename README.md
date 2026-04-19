@@ -1,5 +1,8 @@
 # 📡 NAS 状态监控器 - 墨水屏版
 
+
+![image](https://github.com/ShaderFallback/NAS-Status-Monitor-E-Ink-Display/blob/main/Image/image1.png)
+
 ## ✨ 特性
 
 1. 支持 **6 个硬盘温度显示**（每分钟刷新）  
