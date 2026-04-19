@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "E_PaerDisplay", "E_PaerDisplay.pyproj", "{43808B8C-4E65-47D5-95B1-108B851DA405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43808B8C-4E65-47D5-95B1-108B851DA405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43808B8C-4E65-47D5-95B1-108B851DA405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9214C26-A85A-4205-8554-B797E819EAC0}
+	EndGlobalSection
+EndGlobal

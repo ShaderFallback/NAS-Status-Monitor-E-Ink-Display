@@ -19,15 +19,20 @@
 
 ## ⚠️ 注意事项
 
-1. 请自行修改 Arduino 代码第 10 行的 **WiFi 名称和密码**
+1. 适配 4.2寸 墨水屏, 分辨率400x300
 
-2. 使用 **ESP8266 驱动**  
+2. 请根据自己屏幕型号修改库中预设 第14行 例: GxEPD2_BW<GxEPD2_420_GDEY042T81, GxEPD2_420_GDEY042T81::HEIGHT>
+
+3. 请自行修改 Arduino 代码第10行的 **WiFi 名称和密码**
+
+4. 使用 **ESP8266 驱动**  
    墨水屏库采用 **GxEPD2**（请在 Arduino 中搜索并安装）
 
-3. 上位机默认支持 **Windows**  
+5. 上位机默认支持 **Windows**  
    如需自行修改，请遵循 `example.json` 数据格式
 
-4. 可使用 `#Check_Hardware(handle)#` 检查所有传感器
+6. 可使用 `#Check_Hardware(handle)#` 检查所有传感器
+
 
 ---
 
@@ -67,15 +72,20 @@
 
 ## ⚠️ Notes
 
-1. Please modify the **WiFi SSID and password** in line 10 of the Arduino code  
+1. Designed for **4.2-inch E-Ink display** with resolution **400×300**
 
-2. Powered by **ESP8266**  
+2. Please modify the preset in the library according to your display model (Line 14), for example:  
+   `GxEPD2_BW<GxEPD2_420_GDEY042T81, GxEPD2_420_GDEY042T81::HEIGHT>`
+
+3. Please modify the **WiFi SSID and password** in line 10 of the Arduino code  
+
+4. Powered by **ESP8266**  
    Uses the **GxEPD2** library (install via Arduino Library Manager)
 
-3. The host software supports **Windows by default**  
-   If modifying, follow the `example.json` data format
+5. The host software supports **Windows by default**  
+   If modifying, please follow the `example.json` data format
 
-4. Use `#Check_Hardware(handle)#` to verify all sensors
+6. Use `#Check_Hardware(handle)#` to verify all sensors
 
 ---
 

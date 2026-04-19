@@ -1,0 +1,20 @@
+{
+'temps': 
+[
+    {'name': 'C', 'value': 46.0}, 
+    {'name': 'D', 'value': 43.0}, 
+    {'name': 'E', 'value': 0}, 
+    {'name': 'F', 'value': 0}, 
+    {'name': 'G', 'value': 0}, 
+    {'name': 'H', 'value': 0}
+], 
+
+'disks': 
+[
+    {'name': 'C', 'used': 209.4, 'total': 299.3}, 
+    {'name': 'D', 'used': 358.7, 'total': 631.5}
+], 
+
+'upload': 0.1, 'download': 0.1
+
+}
